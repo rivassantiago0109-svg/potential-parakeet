@@ -1,0 +1,34 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-09-14 22:39:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:windswept_savanna": "2025-09-14 22:42:19 +0000",
+      "minecraft:old_growth_birch_forest": "2025-09-14 22:39:47 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-09-14 22:40:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-09-14 22:40:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-09-14 22:40:15 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
